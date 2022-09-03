@@ -12,10 +12,14 @@
     li{
         @apply px-4; 
         @apply py-6;
-        @apply cursor-pointer
+        @apply cursor-pointer;
+        @apply font-[Inconsolata];
+        @apply text-xl;
+
     }
     h1{
         @apply font-[Inconsolata];
         @apply py-4;
     }
+
 }
