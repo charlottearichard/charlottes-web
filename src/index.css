@@ -21,5 +21,16 @@
         @apply font-[Inconsolata];
         @apply py-4;
     }
+}
 
+.portfolio-img {
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    height:350px;
+}
+
+.portfolio-img:hover{
+    background-image: #8697a2;
+   
 }
