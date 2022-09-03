@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import {FaBars, FaTimes} from 'react-icons/fa';
-import {GiSpiderWeb} from 'react-icons/gi';
 
 const Navbar = () => {
     const [nav, setNav] = useState(false)
