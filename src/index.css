@@ -34,3 +34,11 @@
     background-image: #8697a2;
    
 }
+
+.personal-img {
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width:400px;
+}

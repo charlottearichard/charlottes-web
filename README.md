@@ -15,7 +15,7 @@
 
 <img width="1679" alt="Screen Shot 2022-09-03 at 9 29 23 PM" src="https://user-images.githubusercontent.com/101064266/188293676-3c274fa6-47c2-461d-b10a-45440cdec78f.png">
 
-## Moblie Friendly 
+## Mobile Friendly 
 <img width="635" alt="Screen Shot 2022-09-03 at 9 35 02 PM" src="https://user-images.githubusercontent.com/101064266/188293675-4187fff3-8784-48b0-902a-8471ddb1c6c3.png">
 
 <img width="630" alt="Screen Shot 2022-09-03 at 9 35 16 PM" src="https://user-images.githubusercontent.com/101064266/188293674-3ae82a0c-6616-405d-af71-3c9c8eba023d.png">
