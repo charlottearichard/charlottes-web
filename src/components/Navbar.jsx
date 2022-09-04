@@ -27,11 +27,10 @@ const Navbar = () => {
 
         {/* Mobile */}
         <ul className= {!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#f0f3f5] flex flex-col justify-center items-center'}>
-                <li className='py-6 text-3xl text-[#59707d] '> Home </li>
-                <li className='py-6 text-3xl text-[#59707d]'> About </li>
-                <li className='py-6 text-3xl text-[#59707d]'> Portfolio </li>
-                <li className='py-6 text-3xl text-[#59707d]'> Contact </li>
-                <li className='py-6 text-3xl text-[#59707d]'> Resume </li>
+                <li className='py-6 text-3xl text-[#59707d] '> <a href="/">Home</a> </li>
+                <li className='py-6 text-3xl text-[#59707d]'> <a href="/about">About</a> </li>
+                <li className='py-6 text-3xl text-[#59707d]'> <a href="/portfolio"> Portfolio</a> </li>
+                <li className='py-6 text-3xl text-[#59707d]'> <a href="/contact">Contact</a> </li>
 
             </ul>
 

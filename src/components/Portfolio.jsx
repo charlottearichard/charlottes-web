@@ -6,7 +6,7 @@ import TranqTea from '../assets/tranquilitea.png'
 
 const Portfolio = () => {
   return (
-    <div className='bg-[rgb(245,247,248)] w-full md:h-screen text-[#8697a2]'>
+    <div className='bg-[rgb(245,247,248)] w-full md:h-screen text-[#8697a2] pt-10'>
         <div className='w-full h-full mx-auto p-4 flex flex-col justify-center'>
             <div className='pb-8'> 
             <h1 className='text-center first-letter:font-[Inconsolata] text-6xl  text-[#47606f61]'>Portfolio</h1>
