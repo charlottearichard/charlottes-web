@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/charlottes-web/static/css/main.609d5f18.css",
-    "main.js": "/charlottes-web/static/js/main.9620c959.js",
+    "main.css": "/charlottes-web/static/css/main.c8de74d0.css",
+    "main.js": "/charlottes-web/static/js/main.2546630d.js",
     "static/media/oldport.png": "/charlottes-web/static/media/oldport.cdfa7f21974c62e259fa.png",
     "static/media/tranquilitea.png": "/charlottes-web/static/media/tranquilitea.67e1f040354fe3066fe9.png",
     "static/media/lenstrends.png": "/charlottes-web/static/media/lenstrends.dd5cb48f8f10d3e4a39d.png",
     "static/media/me.jpg": "/charlottes-web/static/media/me.317e3b221575db67cbc2.jpg",
     "index.html": "/charlottes-web/index.html",
-    "main.609d5f18.css.map": "/charlottes-web/static/css/main.609d5f18.css.map",
-    "main.9620c959.js.map": "/charlottes-web/static/js/main.9620c959.js.map"
+    "main.c8de74d0.css.map": "/charlottes-web/static/css/main.c8de74d0.css.map",
+    "main.2546630d.js.map": "/charlottes-web/static/js/main.2546630d.js.map"
   },
   "entrypoints": [
-    "static/css/main.609d5f18.css",
-    "static/js/main.9620c959.js"
+    "static/css/main.c8de74d0.css",
+    "static/js/main.2546630d.js"
   ]
 }
