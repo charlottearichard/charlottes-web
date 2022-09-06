@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import {FaBars, FaTimes} from 'react-icons/fa';
+import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
     const [nav, setNav] = useState(false)
@@ -14,10 +15,10 @@ const Navbar = () => {
 
         {/* Menu */}
             <ul className='hidden md:flex'>
-                <li> <a href='/'> Home </a></li>
-                <li> <a href='/about'> About </a></li>
-                <li> <a href='/portfolio'> Portfolio </a></li>
-                <li> <a href='/contact'> Contact </a></li>
+                <li> <NavLink to='/'> Home </NavLink></li>
+                <li> <NavLink to='/about'> About </NavLink></li>
+                <li> <NavLink to='/portfolio'> Portfolio </NavLink></li>
+                <li> <NavLink to='/contact'> Contact </NavLink></li>
             </ul>
 
         {/* Ham */}
