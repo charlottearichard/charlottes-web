@@ -4,11 +4,12 @@ import About from './components/About'
 import Portfolio from './components/Portfolio'
 import Contact from "./components/Contact";
 import Footer from './components/Footer'
-import {Routes, Route} from 'react-router-dom'
+// HashRouter helps github pages render page
+import {HashRouter as Router, Routes, Route} from 'react-router-dom'
 
 function App() {
   return (
-    <div>
+    <Router>
       <Navbar/> 
       <Routes> 
         <Route path='/' element={<Home/>}/>
@@ -19,7 +20,7 @@ function App() {
 
       </Routes>
   <Footer/>
-    </div>
+    </Router>
   );
 }
 

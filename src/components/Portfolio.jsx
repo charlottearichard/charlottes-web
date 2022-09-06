@@ -1,5 +1,4 @@
 import React from 'react'
-import Clouds from '../assets/clouds.jpg'
 import LensTrends from '../assets/lenstrends.png'
 import OldPort from '../assets/oldport.png'
 import TranqTea from '../assets/tranquilitea.png'
