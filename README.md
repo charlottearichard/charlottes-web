@@ -3,6 +3,9 @@
 ## Technology Used 
     JavaScript, Tailwind, Yarn
     React, JSX
+    
+ ## Link 
+ https://charlottearichard.github.io/charlottes-web/
 
 ## Screenshots
 <img width="1680" alt="Screen Shot 2022-09-03 at 9 28 25 PM" src="https://user-images.githubusercontent.com/101064266/188293680-7f448ef7-7b3e-4de2-a82c-963c09d159f0.png">
